@@ -62,17 +62,7 @@ Los tiempos teóricos se calcularon considerando una frecuencia SPI de 1 MHz y u
 
 Las capturas del analizador lógico permitieron identificar los comandos y datos transmitidos mediante SPI, así como comparar los tiempos teóricos y experimentales. Las diferencias observadas evidencian la influencia de las pausas entre bytes y de la temporización del programa. Asimismo, se identificó la necesidad de revisar el canal configurado en `RF_CH` antes de evaluar una transmisión inalámbrica dentro de la banda ISM de 2,4 GHz.
 
-## Estructura del repositorio
-
-```text
-nRF24L01-SPI/
-├── codigo/
-├── capturas/
-├── informe/
-```
-
-## Autor
-
-**Miguel Ángel Plazas Llanes**  
-Ingeniería en Telecomunicaciones  
-Universidad Militar Nueva Granada (UMNG)
+## Desarrollo
+- [X] Capturas Logic 2
+- [X] Codigos 
+- [X] Informe
