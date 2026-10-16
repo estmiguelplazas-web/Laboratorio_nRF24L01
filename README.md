@@ -1,6 +1,14 @@
 
 # Comunicación SPI con nRF24L01+ y Raspberry Pi Pico 2W
 
+## Autores
+
+**Miguel Ángel Plazas Llanes**  
+**Daniel Mateo Alegría Bernate**
+
+Ingeniería en Telecomunicaciones  
+Universidad Militar Nueva Granada (UMNG)
+
 ## Descripción
 
 Este proyecto analiza la comunicación SPI entre una Raspberry Pi Pico 2W y un módulo inalámbrico nRF24L01+. Se utilizaron capturas del analizador lógico Saleae Logic 2 para identificar los comandos, los datos transmitidos y los tiempos de ejecución de diferentes operaciones.
@@ -62,8 +70,6 @@ nRF24L01-SPI/
 ├── capturas/
 ├── informe/
 ```
-
-*Nota: las carpetas mostradas son una estructura sugerida y deben ajustarse a los archivos incluidos en el repositorio.*
 
 ## Autor
 
